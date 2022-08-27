@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Tour Package Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT2080-ITP-2022-Feb/itp_project_group_b3-wd_b03_itp_g14.git"
+  },
+  "author": "Rashmi Kaweesha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT2080-ITP-2022-Feb/itp_project_group_b3-wd_b03_itp_g14/issues"
+  },
+  "homepage": "https://github.com/IT2080-ITP-2022-Feb/itp_project_group_b3-wd_b03_itp_g14#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
